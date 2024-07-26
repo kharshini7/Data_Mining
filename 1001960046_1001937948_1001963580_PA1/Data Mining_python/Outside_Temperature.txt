@@ -1,0 +1,23 @@
+Part a: What is the average time of hottest daily temperature (over month)
+                Time1
+Month                
+5     0 days 14:40:00
+6     0 days 13:38:00
+7     0 days 08:50:00
+
+Part b: What time of the day is the most commonly occurring hottest time
+0   0 days 13:20:00
+1   0 days 14:40:00
+
+Part c: Which are the Top Ten hottest times on distinct days, preferably sorted by date order
+         Date  Outside Temperature           Time1
+3  2006-06-03                 19.6 0 days 14:55:00
+6  2006-06-06                 23.2 0 days 14:20:00
+7  2006-06-07                 19.6 0 days 13:00:00
+8  2006-06-08                 20.7 0 days 16:35:00
+10 2006-06-10                 19.9 0 days 13:05:00
+11 2006-06-11                 22.4 0 days 11:10:00
+12 2006-06-12                 19.4 0 days 15:00:00
+15 2006-06-15                 21.1 0 days 13:55:00
+17 2006-06-17                 18.9 0 days 14:50:00
+28 2006-06-28                 21.4 0 days 10:45:00
